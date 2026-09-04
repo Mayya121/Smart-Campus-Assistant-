@@ -1,30 +1,24 @@
-# Electronics Store Website
+# Smart Campus Assistant
 
-## Overview
-Electronics Store Website is a web-based e-commerce platform developed to provide users with a simple and organized shopping experience for electronic products.
+Smart Campus Assistant is a web-based campus management system designed to simplify access to university services for students, faculty members, administrators, and maintenance staff.
 
-The system allows customers to browse products, create accounts, log in, manage shopping carts, and access frequently asked questions. An administrative dashboard enables product management and inventory control.
+## Key Features
 
-## Features
-- Product catalog browsing
-- User registration and login
-- Shopping cart management
-- FAQ page for customer support
-- Admin dashboard for product management
-- Database integration for storing products and user data
+* Classroom and study-room reservations
+* View, edit, and cancel bookings
+* Daily schedule management
+* Maintenance request submission
+* User roles and permission management
+* Feedback submission
+* Email notifications
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
 
-## System Modules
-- Home Page
-- Login & Sign Up
-- Shopping Cart
-- FAQ Page
-- Admin Dashboard
-- Database Management
+* HTML
+* CSS
+* PHP
+
+## Development Methodology
+
+The project was developed using Agile and Scrum practices across two development sprints, including sprint planning, implementation, review, and continuous improvement.
 
